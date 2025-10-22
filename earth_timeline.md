@@ -180,3 +180,31 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 - Climate: Anthropogenic Greenhouse.
 - Future Sun: +1% luminosity every ~100 Myr. Day length increases as Moon recedes.
 - **Ecosystems:** Anthropogenic biomes dominate; urban, agricultural, industrial ecosystems. Dominant lifeform: humans and domesticated species.
+
+> **Note:** The Technobiotic Era is *contingent* upon the persistence of intelligent life. If it does not occur, the Ecobiotic Eon will continue through further cycles of extinction and renewal for roughly another billion years, until solar luminosity triggers a moist-greenhouse transition.
+
+---
+
+## **Heliocaustic Eon (Future)**
+
+**Roots:** *hēlios* = sun + *kaustos* = burned\
+**Summary:** Earth's final eon, when solar brightening initiates a moist-greenhouse, desiccates the planet, halts tectonics, and ultimately vaporizes the surface.
+
+### **Xerobiotic Era** (*xēros* = dry + *bios* = life)
+
+- Moist-greenhouse begins; stratosphere becomes wet, hydrogen escapes to space.
+- Oceans shrink and vanish; transient oxygen from photolysis reacts with crust.
+- Final microbial life in deep subsurface; surface sterile.
+
+### **Pyrocratic Era** (*pyrós* = fire + *kratos* = rule)
+
+- Surface >500 K; silicate weathering and plate tectonics end.
+- Magnetic field collapses; atmosphere stripped by solar wind.
+- Planet becomes airless, oxidized, and geologically inert.
+
+### **Solivaporic Era** (*sol* = sun + *vapor* = to steam away)
+
+- Solar flux doubles to triples; surface rock vaporizes into metal oxide clouds.
+- Crust ablated; planet’s mass erodes slowly into space.
+- End state: either engulfment by Sun or survival as a scorched metallic core.
+
