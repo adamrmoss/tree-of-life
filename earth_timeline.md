@@ -185,6 +185,22 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 
 ---
 
+
+
+### **Agonobiotic Era (Future)** (*agon* = struggle + *bios* = life)
+
+- ~+500 Myr onward — Solar luminosity rises ~10%; global temperature exceeds 100 °F.
+- Silicate weathering draws CO₂ below 10 ppm, halting photosynthesis.
+- Oxygen levels fall as organic carbon burial ceases; aerobic life collapses.
+- Final ecosystems retreat to polar and subterranean refugia.
+- Oceans recede and concentrate into hypersaline basins; most surface water lost.
+- Land becomes dominated by desert crusts, oxidized rock, and dust storms.
+- Mean surface temperature continues to rise; UV radiation intensifies under thinning ozone.
+- **Ecosystems:** Final microbial and extremophile lineages persist in isolated niches.
+  Dominant lifeforms: halophiles, thermophiles, and deep subsurface bacteria.
+- Marks the **final struggle of the biosphere** before the transition to the Heliocaustic Eon.
+
+
 ## **Heliocaustic Eon (Future)**
 
 **Roots:** *hēlios* = sun + *kaustos* = burned\
