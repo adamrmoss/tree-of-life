@@ -151,7 +151,7 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 - Sun: ~1–2% dimmer. Day length: ~23.9 hours.
 - **Ecosystems:** Mesozoic ecosystems dominated by conifer forests, cycads, and later angiosperm forests. Marine ecosystems with ammonites, ichthyosaurs, plesiosaurs. Dominant lifeforms: dinosaurs, pterosaurs, marine reptiles, ammonites, early mammals, flowering plants.
 
-### **Thermophoric Era (66 Ma–Present)** (*thermē* = warmth + *phoros* = bearing)
+### **Thermophoric Era (66 Ma–+100Ma)** (*thermē* = warmth + *phoros* = bearing)
 
 - ~66 Ma — End-Cretaceous extinction clears ecological space; mammals and birds radiate rapidly.
 - ~60–50 Ma — Primates, bats, whales, and many modern mammal orders diverge.
@@ -173,7 +173,7 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 - Sun: present brightness. Day length: 24 hours. Month: 29.5 days.
 - **Ecosystems:** Tropical forests shrink and expand with climate; grasslands and savannas dominate large land areas; deserts expand in arid belts. Repeated Ice Ages restructure temperate and polar ecosystems. Dominant lifeforms: **warm-blooded animals (mammals and birds)** across all major environments, with grasses and angiosperms shaping terrestrial ecosystems; humans emerge as global ecological drivers.
 
-### **Technobiotic Era (Present–Future)** (*technē* = art, craft + *bios* = life)
+### **Technobiotic Era (Present–+100 Ma)** (*technē* = art, craft + *bios* = life)
 
 - Anthropocene transformation.
 - Humans alter biosphere and climate.
@@ -185,8 +185,12 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 
 ---
 
+## **Katakepic Eon (+100–+1000 Ma)**
 
-### **Sphyxiobiotic Era (Future)** (*sphyxis* = choking + *bios* = life)
+**Roots:** *kata* = after, down + *kēpos* = garden
+**Summary:** The end of the garden — the gradual collapse and final struggle of the biosphere as photosynthesis ceases and life retreats into extremophile niches.
+
+### **Sphyxiobiotic Era (+100–+500 Ma)** (*sphyxis* = choking + *bios* = life)
 
 - ~+100–500 Myr — Increasing solar luminosity intensifies silicate weathering, consuming atmospheric CO₂.
 - CO₂ levels fall below 150 ppm; C₃ plants die out, deserts expand.
@@ -200,7 +204,7 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 - Marks the **strangulation of the biosphere**—the age when life begins to suffocate from its own feedback systems.
 
 
-### **Agonobiotic Era (Future)** (*agon* = struggle + *bios* = life)
+### **Agonobiotic Era (+500–+1000 Ma)** (*agon* = struggle + *bios* = life)
 
 - ~+500 Myr onward — Solar luminosity rises ~10%; global temperature exceeds 100 °F.
 - Silicate weathering draws CO₂ below 10 ppm, halting photosynthesis.
@@ -213,27 +217,27 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
   Dominant lifeforms: halophiles, thermophiles, and deep subsurface bacteria.
 - Marks the **final struggle of the biosphere** before the transition to the Heliocaustic Eon.
 
+---
 
-## **Heliocaustic Eon (Future)**
+## **Heliocaustic Eon (+1.0–+3.5 Ga)**
 
 **Roots:** *hēlios* = sun + *kaustos* = burned\
 **Summary:** Earth's final eon, when solar brightening initiates a moist-greenhouse, desiccates the planet, halts tectonics, and ultimately vaporizes the surface.
 
-### **Xerobiotic Era** (*xēros* = dry + *bios* = life)
+### **Xerobiotic Era (+1.0–+1.5 Ga)** (*xēros* = dry + *bios* = life)
 
 - Moist-greenhouse begins; stratosphere becomes wet, hydrogen escapes to space.
 - Oceans shrink and vanish; transient oxygen from photolysis reacts with crust.
 - Final microbial life in deep subsurface; surface sterile.
 
-### **Pyrocratic Era** (*pyrós* = fire + *kratos* = rule)
+### **Pyrocratic Era (+1.5–+2.5 Ga)** (*pyrós* = fire + *kratos* = rule)
 
 - Surface >500 K; silicate weathering and plate tectonics end.
 - Magnetic field collapses; atmosphere stripped by solar wind.
 - Planet becomes airless, oxidized, and geologically inert.
 
-### **Solivaporic Era** (*sol* = sun + *vapor* = to steam away)
+### **Solivaporic Era (+2.5–+3.5 Ga)** (*sol* = sun + *vapor* = to steam away)
 
 - Solar flux doubles to triples; surface rock vaporizes into metal oxide clouds.
 - Crust ablated; planet’s mass erodes slowly into space.
 - End state: either engulfment by Sun or survival as a scorched metallic core.
-
