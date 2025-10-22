@@ -186,6 +186,19 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 ---
 
 
+### **Sphyxiobiotic Era (Future)** (*sphyxis* = choking + *bios* = life)
+
+- ~+100–500 Myr — Increasing solar luminosity intensifies silicate weathering, consuming atmospheric CO₂.
+- CO₂ levels fall below 150 ppm; C₃ plants die out, deserts expand.
+- As CO₂ drops below 10 ppm, C₄ and CAM plants fail, ending all photosynthesis.
+- Atmospheric oxygen begins irreversible decline as respiration and oxidation consume remaining O₂.
+- Collapse of complex food webs; extinction of most animals and plants.
+- Global mean temperature rises to ~90–100 °F; polar refugia persist briefly.
+- Oceans shrink and salinity rises; nutrient cycling ceases.
+- **Ecosystems:** Surviving microbial mats, lichens, and halophiles dominate coastal and subsurface refugia.
+  Dominant lifeforms: extremophilic microbes dependent on chemical energy.
+- Marks the **strangulation of the biosphere**—the age when life begins to suffocate from its own feedback systems.
+
 
 ### **Agonobiotic Era (Future)** (*agon* = struggle + *bios* = life)
 
