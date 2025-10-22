@@ -9,7 +9,10 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 **Roots:** *creatio* = bringing into being\
 **Summary:** Earth forms; molten surface stabilizes into crust and oceans. Processes are largely continual rather than sudden events.
 
-### **Chaotic Era (4560–4400 Ma)** (*chaos* = disorder)
+
+### **Chaotic Era (4560–4400 Ma)**
+**Roots:** *chaos* = disorder
+**Summary:** Earth’s violent accretion phase; formation of Moon and first crust.
 
 - ~4560 Ma — Earth accretes from planetesimals; differentiation into core, mantle, crust.
 - ~4510 Ma — Giant impact with Theia; Moon forms from debris.
@@ -21,7 +24,10 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 - Sun: ~25–30% fainter than today.
 - **Prebiotic chemistry**: conditions favorable for abiotic synthesis of amino acids, nucleotides, and lipids.
 
-### **Hormetic Era (4400–4000 Ma)** (*hormē* = surge)
+
+### **Hormetic Era (4400–4000 Ma)**
+**Roots:** *hormē* = surge
+**Summary:** Stabilization of hydrosphere and early prebiotic chemistry.
 
 - ~4400–4200 Ma — First proto-continents stabilize; TTG crust forms.
 - ~4300–4200 Ma — Hydrological cycle established; rainfall and erosion begin.
@@ -37,11 +43,13 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 ---
 
 ## **Anoxic Eon (4000–2400 Ma)**
-
 **Roots:** *an-* = without + *oxys* = oxygen\
 **Summary:** Microbial Earth under an oxygen-free sky. Life is microbial, ecosystems are anaerobic, continents form and stabilize, food webs begin to emerge.
 
-### **Oligobiotic Era (4000–3600 Ma)** (*oligos* = few + *bios* = life)
+
+### **Oligobiotic Era (4000–3600 Ma)**
+**Roots:** *oligos* = few + *bios* = life
+**Summary:** Earliest microbial life emerges in a largely anoxic world.
 
 - ~3800–3700 Ma — Earliest evidence of life: carbon isotopes, stromatolites.
 - **Prokaryotic diversification begins**: Archaea and Bacteria emerge as distinct domains.
@@ -56,7 +64,10 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 - Sun: ~25–30% dimmer.
 - **Ecosystems:** Microbial mats and biofilms dominate tidal flats, lagoons, and shallow seas. Hydrothermal vents host chemosynthetic consortia. Dominant lifeforms are thermophiles, methanogens, and anoxygenic phototrophs.
 
-### **Trophocyclic Era (3600–2400 Ma)** (*trophē* = nourishment + *kyklos* = cycle)
+
+### **Trophocyclic Era (3600–2400 Ma)**
+**Roots:** *trophē* = nourishment + *kyklos* = cycle
+**Summary:** Expansion of microbial ecosystems and oxygenic photosynthesis.
 
 - ~3500 Ma — Oxygenic photosynthesis evolves in cyanobacteria.
 - ~3500–2700 Ma — Stromatolites flourish worldwide.
@@ -75,11 +86,13 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 ---
 
 ## **Hesychotic Eon (2400–635 Ma)**
-
 **Roots:** *hēsychia* = stillness\
 **Summary:** Oxygen revolution, early eukaryotes, multicellularity, Snowball Earth.
 
-### **Oxogenic Era (2400–1600 Ma)** (*oxys* = oxygen + *genesis* = origin)
+
+### **Oxogenic Era (2400–1600 Ma)**
+**Roots:** *oxys* = oxygen + *genesis* = origin
+**Summary:** Atmospheric oxygen rises; first eukaryotes appear.
 
 - ~2450–2300 Ma — Great Oxidation Event; permanent O₂ accumulation.
 - ~2400–2100 Ma — Huronian glaciations.
@@ -93,7 +106,10 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 - Moon: month ~25 days.
 - **Ecosystems:** Oxygenated surface waters support aerobic bacteria. Cyanobacterial mats dominate coasts. Early eukaryotes appear in plankton ecosystems. Dominant lifeforms: cyanobacteria, protists, aerobes.
 
-### **Symbiotic Era (1600–635 Ma)** (*syn* = together + *bios* = life)
+
+### **Symbiotic Era (1600–635 Ma)**
+**Roots:** *syn* = together + *bios* = life
+**Summary:** Eukaryotic symbioses and multicellular diversification under global glaciations.
 
 - ~1600–1400 Ma — Rise of complex protists.
 - ~1600–1400 Ma — Endosymbiosis of mitochondria.
@@ -114,11 +130,13 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 ---
 
 ## **Ecobiotic Eon (635 Ma – Future)**
-
 **Roots:** *oikos* = home + *bios* = life\
 **Summary:** Ecosystems colonize every environment; repeated mass extinctions punctuate history.
 
-### **Acritotaxic Era (635–444 Ma)** (*akritos* = uncertain + *taxis* = arrangement)
+
+### **Acritotaxic Era (635–444 Ma)**
+**Roots:** *akritos* = uncertain + *taxis* = arrangement
+**Summary:** Ediacaran to Cambrian diversification; first complex ecosystems.
 
 - ~635–575 Ma — Ediacaran organisms.
 - ~540 Ma — Cambrian Explosion.
@@ -127,7 +145,10 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 - Sun: ~6% dimmer. Day length: ~23 hours.
 - **Ecosystems:** Soft-bodied Ediacaran biota form matground communities. Cambrian seas host diverse reef ecosystems with trilobites, brachiopods, early chordates. Dominant lifeforms: trilobites, early arthropods, mollusks, primitive chordates.
 
-### **Ecotropic Era (444–252 Ma)** (*oikos* = home + *tropos* = manner)
+
+### **Ecotropic Era (444–252 Ma)**
+**Roots:** *oikos* = home + *tropos* = manner
+**Summary:** Colonization of land; rise of plants, forests, and vertebrates.
 
 - ~430 Ma — Plants colonize land.
 - ~425 Ma — Arthropods colonize land.
@@ -139,7 +160,10 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 - Sun: ~3–5% dimmer. Day length: ~23.5 hours.
 - **Ecosystems:** Coral reefs flourish. First forests with lycophytes, ferns, seed plants. Swamp ecosystems dominate Carboniferous. Dominant lifeforms: fish, insects, amphibians, giant arthropods, early reptiles.
 
-### **Dinornithic Era (252–66 Ma)** (*deinos* = terrible + *ornis* = bird)
+
+### **Dinornithic Era (252–66 Ma)**
+**Roots:** *deinos* = terrible + *ornis* = bird
+**Summary:** Mesozoic ecosystems dominated by reptiles and early mammals.
 
 - ~252–247 Ma — Synapsids decline, archosaurs rise.
 - ~230 Ma — First dinosaurs.
@@ -151,7 +175,10 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 - Sun: ~1–2% dimmer. Day length: ~23.9 hours.
 - **Ecosystems:** Mesozoic ecosystems dominated by conifer forests, cycads, and later angiosperm forests. Marine ecosystems with ammonites, ichthyosaurs, plesiosaurs. Dominant lifeforms: dinosaurs, pterosaurs, marine reptiles, ammonites, early mammals, flowering plants.
 
-### **Thermophoric Era (66 Ma–+100Ma)** (*thermē* = warmth + *phoros* = bearing)
+
+### **Thermophoric Era (66 Ma–+100Ma)**
+**Roots:** *thermē* = warmth + *phoros* = bearing
+**Summary:** Cenozoic radiations of mammals and birds; climate cooling.
 
 - ~66 Ma — End-Cretaceous extinction clears ecological space; mammals and birds radiate rapidly.
 - ~60–50 Ma — Primates, bats, whales, and many modern mammal orders diverge.
@@ -173,7 +200,10 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 - Sun: present brightness. Day length: 24 hours. Month: 29.5 days.
 - **Ecosystems:** Tropical forests shrink and expand with climate; grasslands and savannas dominate large land areas; deserts expand in arid belts. Repeated Ice Ages restructure temperate and polar ecosystems. Dominant lifeforms: **warm-blooded animals (mammals and birds)** across all major environments, with grasses and angiosperms shaping terrestrial ecosystems; humans emerge as global ecological drivers.
 
-### **Technobiotic Era (Present–+100 Ma)** (*technē* = art, craft + *bios* = life)
+
+### **Technobiotic Era (Present–+100 Ma)**
+**Roots:** *technē* = art, craft + *bios* = life
+**Summary:** Human technology reshapes biosphere and climate.
 
 - Anthropocene transformation.
 - Humans alter biosphere and climate.
@@ -186,11 +216,13 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 ---
 
 ## **Katakepic Eon (+100–+1000 Ma)**
-
 **Roots:** *kata* = after, down + *kēpos* = garden
 **Summary:** The end of the garden — the gradual collapse and final struggle of the biosphere as photosynthesis ceases and life retreats into extremophile niches.
 
-### **Sphyxiobiotic Era (+100–+500 Ma)** (*sphyxis* = choking + *bios* = life)
+
+### **Sphyxiobiotic Era (+100–+500 Ma)**
+**Roots:** *sphyxis* = choking + *bios* = life
+**Summary:** Decline of photosynthesis; biosphere suffocates as CO₂ drops.
 
 - ~+100–500 Myr — Increasing solar luminosity intensifies silicate weathering, consuming atmospheric CO₂.
 - CO₂ levels fall below 150 ppm; C₃ plants die out, deserts expand.
@@ -204,7 +236,9 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 - Marks the **strangulation of the biosphere**—the age when life begins to suffocate from its own feedback systems.
 
 
-### **Agonobiotic Era (+500–+1000 Ma)** (*agon* = struggle + *bios* = life)
+### **Agonobiotic Era (+500–+1000 Ma)**
+**Roots:** *agon* = struggle + *bios* = life
+**Summary:** Final survival of microbial life in a desiccating world.
 
 - ~+500 Myr onward — Solar luminosity rises ~10%; global temperature exceeds 100 °F.
 - Silicate weathering draws CO₂ below 10 ppm, halting photosynthesis.
@@ -220,23 +254,31 @@ This timeline integrates our **custom geologic eons and eras** with detailed chr
 ---
 
 ## **Heliocaustic Eon (+1.0–+3.5 Ga)**
-
 **Roots:** *hēlios* = sun + *kaustos* = burned\
 **Summary:** Earth's final eon, when solar brightening initiates a moist-greenhouse, desiccates the planet, halts tectonics, and ultimately vaporizes the surface.
 
-### **Xerobiotic Era (+1.0–+1.5 Ga)** (*xēros* = dry + *bios* = life)
+
+### **Xerobiotic Era (+1.0–+1.5 Ga)**
+**Roots:** *xēros* = dry + *bios* = life
+**Summary:** Planet enters moist-greenhouse; surface water lost.
 
 - Moist-greenhouse begins; stratosphere becomes wet, hydrogen escapes to space.
 - Oceans shrink and vanish; transient oxygen from photolysis reacts with crust.
 - Final microbial life in deep subsurface; surface sterile.
 
-### **Pyrocratic Era (+1.5–+2.5 Ga)** (*pyrós* = fire + *kratos* = rule)
+
+### **Pyrocratic Era (+1.5–+2.5 Ga)**
+**Roots:** *pyrós* = fire + *kratos* = rule
+**Summary:** Runaway greenhouse ends tectonics; atmosphere stripped.
 
 - Surface >500 K; silicate weathering and plate tectonics end.
 - Magnetic field collapses; atmosphere stripped by solar wind.
 - Planet becomes airless, oxidized, and geologically inert.
 
-### **Solivaporic Era (+2.5–+3.5 Ga)** (*sol* = sun + *vapor* = to steam away)
+
+### **Solivaporic Era (+2.5–+3.5 Ga)**
+**Roots:** *sol* = sun + *vapor* = to steam away
+**Summary:** Surface vaporized; Earth reduced to metallic remnant.
 
 - Solar flux doubles to triples; surface rock vaporizes into metal oxide clouds.
 - Crust ablated; planet’s mass erodes slowly into space.
